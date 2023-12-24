@@ -1,4 +1,4 @@
-from MachineLearning.Project.Traffic_Sign_Detection_faster_rcnn.opts import parse_opts_offline
+from opts import parse_opts_offline
 import os
 import xml.etree.ElementTree as ET
 import shutil
