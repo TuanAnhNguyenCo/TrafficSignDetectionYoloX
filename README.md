@@ -34,6 +34,6 @@
 <div>
   <h2>Result</h2>
   <h3>Score: bbox_mAP_50: 0.95 </h3>
-  <img src="./out/vis/output.png" >
+  <img src="./out/vis/ouput.png" >
   
 </div>
