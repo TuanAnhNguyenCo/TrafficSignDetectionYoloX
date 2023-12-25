@@ -16,7 +16,7 @@
   <h2>Getting Started</h2>
   <ol>
     <li>Firstly, clone our git</li>
-    <li>cd Traffic_Sign_Detection_faster_rcnn</li>
+    <li>cd TrafficSignDetectionYoloX</li>
     <li>Install necessary lib to runcode: 
       <ul>
         <li>pip install -U openmim</li>
