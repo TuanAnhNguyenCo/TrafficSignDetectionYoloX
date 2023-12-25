@@ -12,7 +12,7 @@ if __name__ == '__main__':
         # Choose to use a config
         config = 'configs/yolox/yolox_s_8xb8-300e_coco.py'
         # Setup a checkpoint file to load
-        checkpoint = glob.glob('./work_dirs/yolox_s_8xb8-300e_coco/epoch_50.pth')[0]
+        checkpoint = glob.glob('./work_dirs/yolox_s_8xb8-300e_coco/best_model.pth')[0]
 
         # Set the device to be used for evaluation
         device = 'cuda:0'
