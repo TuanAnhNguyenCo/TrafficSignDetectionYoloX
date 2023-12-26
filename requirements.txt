@@ -1,3 +1,21 @@
+torchvision
+matplotlib
+numpy
+mediapipe
+pandas
+scikit-learn
+matplotlib
+numpy
+torch
+tqdm
+seaborn
+PyWavelets
+einops
+ssqueezepy
+scikit-image
+nltk
+wandb
+flask
 -r requirements/build.txt
 -r requirements/optional.txt
 -r requirements/runtime.txt
