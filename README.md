@@ -27,6 +27,7 @@
     </li>
     <li>Use convert_to_coco.py to convert data to coco format</li>
     <li>To train: run ' python tools/train.py configs/yolox/yolox_s_8xb8-300e_coco.py'</li>
+    <li>Check work_dirs/yolox_s_8xb8-300e_cocolast_checkpoint.txt. Rename model*.pth to best_model.pth</li>
     <li>To infer: run 'python infer.py [img_url] [image output name if it isn't specify it will have a default name is output]'</li>
     <li>Please checking configs/yolox/yolox_s_8xb8-300e_coco.py if you want to change config</li>
   </ol>
